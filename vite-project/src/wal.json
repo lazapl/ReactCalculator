@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 21.0118,
+        "lat": 52.2298
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 45.97,
+        "feels_like": 43.02,
+        "temp_min": 43.9,
+        "temp_max": 49.64,
+        "pressure": 1012,
+        "humidity": 71
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.75,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1697650563,
+    "sys": {
+        "type": 2,
+        "id": 2032856,
+        "country": "PL",
+        "sunrise": 1697605511,
+        "sunset": 1697643412
+    },
+    "timezone": 7200,
+    "id": 756135,
+    "name": "Warsaw",
+    "cod": 200
+}
